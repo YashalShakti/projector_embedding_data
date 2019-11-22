@@ -1,0 +1,1 @@
+{"embeddings": [{"tensorName": "Embedding", "tensorShape": [20, 1], "tensorPath": "https://raw.githubusercontent.com/YashalShakti/projector_embedding_data/master/multi_task/train_embeddings/B00BR33KK6_tensors.tsv", "metadataPath": "https://raw.githubusercontent.com/YashalShakti/projector_embedding_data/master/multi_task/train_embeddings/B00BR33KK6_optional.metadata.tsv"}]}
